@@ -2,7 +2,8 @@
  The Event Management Dashboard is a web-based application designed to streamline the planning and execution of events. The platform consists of two primary interfaces: one tailored for users (clients) and another for vendors. 
 
 ![image alt](p1.png)
-!alt[]
+![image alt](p2.png)
+![image alt](p3.png)
 
 
 
