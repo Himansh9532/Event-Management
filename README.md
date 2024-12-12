@@ -27,6 +27,7 @@
 
 - **HTML5**
 - **CSS3 (with 3D effects and animations)**
+- **FLASK**
 - **Font Awesome (for icons)**
 
 ## Preview
